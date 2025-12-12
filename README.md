@@ -1,16 +1,58 @@
-# React + Vite
+📘 Class Project – React Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive class project built using React, Tailwind CSS, DaisyUI, and React Carousel.
+The project focuses on a clean UI, smooth components, and mobile-friendly design.
 
-Currently, two official plugins are available:
+🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live site here:
+🔗 https://pranto715499.netlify.app/
 
-## React Compiler
+🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React
 
-## Expanding the ESLint configuration
+Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+DaisyUI
+
+React Carousel
+
+📂 Features
+
+Fully responsive layout
+
+Carousel component for showcasing content
+
+Clean and modern UI
+
+Fast loading and optimized structure
+
+📦 Installation & Setup
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate into the project
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+📁 Folder Structure (Basic)
+src/
+ ├── components/
+ ├── pages/
+ ├── assets/
+ ├── App.jsx
+ └── main.jsx
+
+🤝 Contribution
+
+Feel free to fork the repo and make improvements.
+
+📄 License
+
+This project is for educational purposes.
