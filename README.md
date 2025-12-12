@@ -28,31 +28,6 @@ Clean and modern UI
 
 Fast loading and optimized structure
 
-📦 Installation & Setup
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into the project
-cd your-repo-name
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-📁 Folder Structure (Basic)
-src/
- ├── components/
- ├── pages/
- ├── assets/
- ├── App.jsx
- └── main.jsx
-
-🤝 Contribution
-
-Feel free to fork the repo and make improvements.
-
 📄 License
 
 This project is for educational purposes.
